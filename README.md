@@ -23,6 +23,9 @@ Data collection, statistical analysis, report writing
 - Completing assignments related to UX design and prototyping
 - Expanding my knowledge of programming and development
 
+## Current Employment
+- I am working in asset protection at Walmart for the time being until i complete my studies at SAIT.
+
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/muhammad-ebad-riaz-92ab51129/)
 - Email: muhammad.riaz1@edu.sait.ca
