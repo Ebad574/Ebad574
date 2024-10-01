@@ -16,7 +16,7 @@ Figma, Adobe XD
 - ### Version Control: 
 Git, GitHub
 - ### Research and Analysis: 
-Data collection, statistical analysis, report writing
+Data collection and statistical analysis
 
 ## What I’m Working On
 - Building my GitHub profile with good version control practices
