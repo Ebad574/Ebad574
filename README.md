@@ -14,4 +14,13 @@ Hi, I'm **Muhammad Ebad Riaz**, currently pursuing a diploma in **Interactive De
 - **Version Control**: Git, GitHub
 - **Research and Analysis**: Data collection, statistical analysis, report writing
 
+## What I’m Working On
+- Building my GitHub profile with good version control practices
+- Completing assignments related to UX design and prototyping
+- Expanding my knowledge of programming and development
+
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/muhammad-ebad-riaz-92ab51129/)
+- Email: muhammad.riaz1@edu.sait.ca
+
 
