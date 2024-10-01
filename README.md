@@ -29,5 +29,3 @@ Data collection, statistical analysis, report writing
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/muhammad-ebad-riaz-92ab51129/)
 - Email: muhammad.riaz1@edu.sait.ca
-
-
