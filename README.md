@@ -21,7 +21,7 @@ Data collection, statistical analysis, report writing
 ## What I’m Working On
 - Building my GitHub profile with good version control practices
 - Completing assignments related to UX design and prototyping
-- Expanding my knowledge of programming and development
+- Expanding my knowledge of programming.
 
 ## Current Employment
 - I am working in asset protection at Walmart for the time being until i complete my studies at SAIT.
