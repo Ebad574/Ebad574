@@ -9,10 +9,14 @@ Hi, I'm **Muhammad Ebad Riaz**, currently pursuing a *diploma* in **Interactive 
   - Diploma in Interactive Design User Experience (in progress)
 
  ## Skills
-- **Languages**: HTML, CSS, Python (beginner)
-- **Design Tools**: Figma, Adobe XD
-- **Version Control**: Git, GitHub
-- **Research and Analysis**: Data collection, statistical analysis, report writing
+- ### Languages: 
+HTML, CSS, Python (beginner)
+- ### Design Tools: 
+Figma, Adobe XD
+- ### Version Control: 
+Git, GitHub
+- ### Research and Analysis: 
+Data collection, statistical analysis, report writing
 
 ## What I’m Working On
 - Building my GitHub profile with good version control practices
